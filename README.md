@@ -43,5 +43,6 @@ to analyze category distribution, pricing metrics, product performance, discount
 
 # 👤 Author
 
-Mayank Chauhan
-📧 mayankchauhan.61z1@gmail.com
+Jeevan Chauhan
+
+📧 jeevanchauhan2002@gmail.com
